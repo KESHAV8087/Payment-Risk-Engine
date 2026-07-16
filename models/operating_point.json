@@ -1,0 +1,8 @@
+{
+  "threshold": 0.029,
+  "fp_cost_assumption_usd": 5.0,
+  "scale_pos_weight": 171.75179856115108,
+  "test_pr_auc_calibrated": 0.8476435426458075,
+  "test_recall_at_threshold": 0.9286713286713286,
+  "test_precision_at_threshold": 0.31882202304737517
+}
