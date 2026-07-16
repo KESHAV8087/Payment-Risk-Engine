@@ -1,0 +1,15 @@
+{
+  "n_evaluated": 30,
+  "mean_faithfulness": 0.9737,
+  "median_faithfulness": 1.0,
+  "min_faithfulness": 0.8411,
+  "pct_fully_faithful": 0.7,
+  "excluded_features": [
+    "log_amt",
+    "hour_sin",
+    "hour_cos"
+  ],
+  "llm_provider": "Groq",
+  "llm_model": "llama-3.3-70b-versatile",
+  "note": "Lexical faithfulness metric; remaining sub-1.0 cases are omissions of low-strength factors, not fabrications."
+}
